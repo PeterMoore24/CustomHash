@@ -37,7 +37,7 @@ string recursiveInc(string input) {
 
 int main() {
 	const string crack = "4aaa1b3dfb4fc47bf2986a07eea3ef78ebb449dd370a5db55c07b8b55d9c7a6d9d9cb7dd0097b9f7c1950feab91ea29f72802538192546a7bc39b71139c91753";
-	string input = "zkmyj";
+	string input = "aaaa`";
 	string result;
 	//cout << "beginning to crack\n";
 	while (result != crack && input != "" && input != "zzzzz") {
